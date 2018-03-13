@@ -41,11 +41,11 @@ modified: "2018-03-13"
 url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/xignite/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Xignite Interbanks
+- name: Xignite Statistics
   description: Financial market data on-demand
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: ""
-  baseURL: https://www.xignite.com/xInterBanks.json/XigniteInterBanks
+  baseURL: https://www.xignite.com/xStatistics.json/XigniteStatistics
   tags: Design
   properties:
   - type: x-openapi-spec
