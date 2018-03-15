@@ -41,15 +41,15 @@ modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/xignite/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Xignite Futures
+- name: Xignite Interbanks
   description: Financial market data on-demand
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: ""
-  baseURL: https://www.xignite.com/xFutures.json/XigniteFutures
+  baseURL: https://www.xignite.com/xInterBanks.json/XigniteInterBanks
   tags: Design
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/xignite/gethistoricalchartdesign-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/xignite/getchartdesign-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
