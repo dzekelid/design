@@ -49,7 +49,7 @@ apis:
   tags: Design
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/intraday,-,-design-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/historical,-,-design-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
