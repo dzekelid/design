@@ -36,16 +36,16 @@ tags:
 - Business
 - Bond Markets
 - Articles
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-23"
+modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Xignite Statistics
+- name: Xignite Currencies
   description: Financial market data on-demand
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
   humanURL: ""
-  baseURL: https://www.xignite.com/xStatistics.json/XigniteStatistics
+  baseURL: https://www.xignite.com/xCurrencies.json//XigniteCurrencies
   tags: Design
   properties:
   - type: x-openapi-spec
