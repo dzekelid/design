@@ -50,15 +50,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/,-design-post.md
-- name: Xignite Futures Get Historical Chart Design
-  description: Returns the default settings for the historical future chart.
+- name: Xignite Interbanks Get Chart Design
+  description: Returns the default design class for the rate Chart.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/280-xignite.jpg
   humanURL: http://www.xignite.com
-  baseURL: https://www.xignite.com/xFutures.json/XigniteFutures
+  baseURL: https://www.xignite.com/xInterBanks.json/XigniteInterBanks
   tags: Design
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/historical,-,-design-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/,-design-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
