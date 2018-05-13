@@ -50,11 +50,11 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/,-design-post.md
-- name: Xignite Interbanks Get Chart Design
-  description: Returns the default design class for the rate Chart.
+- name: Xignite Statistics Get Chart Design
+  description: Returns the default design class for the statistics Chart.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/280-xignite.jpg
   humanURL: http://www.xignite.com
-  baseURL: https://www.xignite.com/xInterBanks.json/XigniteInterBanks
+  baseURL: https://www.xignite.com/xStatistics.json/XigniteStatistics
   tags: Design
   properties:
   - type: x-openapi-spec
