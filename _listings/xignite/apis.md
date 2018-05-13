@@ -50,15 +50,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/,-design-post.md
-- name: Xignite Currencies Get Chart Design
-  description: Returns the default design class for the currency Chart.
+- name: Xignite Futures Get Intraday Chart Design
+  description: Returns the default settings for the intraday future chart.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/280-xignite.jpg
   humanURL: http://www.xignite.com
-  baseURL: https://www.xignite.com/xCurrencies.json//XigniteCurrencies
+  baseURL: https://www.xignite.com/xFutures.json/XigniteFutures
   tags: Design
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/,-design-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/intraday,-,-design-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
