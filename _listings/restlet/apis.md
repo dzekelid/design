@@ -1,25 +1,14 @@
 ---
 name: Restlet
-description: The Restlet API Platform enables developers and non-developers to design,
-  create, run and manage the APIs that provide access to any data or application.
-  Restlet Framework is the most widely used open source solution for Java developers
-  who want to create and use APIs. The first Platform-as-a-Service dedicated to web
-  APIs, APISpark enables any organization to become an API provider in minutes via
-  an intuitive browser interface.
-image: https://avatars.githubusercontent.com/u/374452?v=3
+x-slug: restlet
+description: Restlet is a web API platform vendor, pioneer of RESTful web APIs.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/90-restlet.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Studio
-- Stack Network
-- Spreadsheets
-- Management
-- Design
-- Deployment
-- Cloud
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/restlet/apis.yaml
+x-alexaRank: "226832"
+tags: Design
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/restlet/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -29,6 +18,12 @@ x-common:
   url: http://restlet.com/blog/feed/
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/restlet
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/restlet
+- type: x-email
+  url: contact@restlet.com
+- type: x-email
+  url: jobs@restlet.com
 - type: x-github
   url: https://github.com/restlet
 - type: x-twitter

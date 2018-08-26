@@ -1,32 +1,35 @@
 ---
 name: APIMATIC
-description: When you use APIMATIC to manage SDKs, they provide you with an editor
-  for adding, editing, and deleting the details of each API. When you bundles this
-  with their multi-format API definition format import and export, the platform quickly
-  becomes an API design tool as well as a platform for generating your SDKs.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png
+x-slug: apimatic
+description: 'A Developer Experience Platform for APIs. Services include: Developer
+  Portal Generation, SDK Generation, Documentation Generation, Code Sample Generation,
+  API Specification Conversion, CI/CD Integrations, Package Publishing'
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2939-apimatic.jpg
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Stack Network
-- SDK
-- My API Stack
-- interesting
-- Design
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/apimatic/apis.yaml
+x-alexaRank: "972589"
+tags: Design
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apimatic/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://api.video.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://apimatic.stack.network
 - type: x-blog
   url: https://apimatic.io/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/apimatic
 - type: x-github
   url: https://github.com/apimatic
 - type: x-pricing
   url: https://apimatic.io/pricing
 - type: x-twitter
   url: https://twitter.com/apimatic
+- type: x-website
+  url: http://apimatic.io
 - type: x-website
   url: https://www.apimatic.io/
 include: []

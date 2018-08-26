@@ -1,20 +1,14 @@
 ---
 name: Materia
-description: A modern development environment to build advanced mobile and web applications.
-  Materia is an easy-to-use backend to build all kinds of applications (mobile, web,
-  gaming and more). Materia tooling aims to manage the entire development cycle for
-  building enterprise class backends.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Materia_-_Develop_web_and_mobile_application_at_the_speed_of_light_.png
-x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Desktop
-- Design
-- Deployment
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/materia/apis.yaml
+x-slug: materia
+description: A modern development environment to build advanced mobile and web applications
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22948-materia.jpg
+x-kinRank: "8"
+x-alexaRank: "0"
+tags: Design
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/materia/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:

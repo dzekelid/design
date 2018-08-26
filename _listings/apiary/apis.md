@@ -1,23 +1,16 @@
 ---
 name: Apiary
-description: Apiary jump-started the modern API design movement, by making API definitions
-  more than just about API documentation, allowing API designers to define APIs in
-  the machine readable API definition format API blueprint, then mock, share, and
-  publish documentation via a cloud platform.
-image: https://avatars.githubusercontent.com/u/765943?v=3
+x-slug: apiary
+description: Apiary provides the leading API-First platform designed specifically
+  to help companies accelerate and control the design, development, and documentation
+  of APIs.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19-apiary.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Virtualization
-- Virtualization
-- Studio
-- Stack Network
-- Documentation
-- Design
-- API LIfeycle
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/apiary/apis.yaml
+x-alexaRank: "44712"
+tags: Design
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apiary/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -26,7 +19,11 @@ x-common:
 - type: x-blog-rss
   url: http://blog.apiary.io/feed.xml
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/apiary
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/apiary
+- type: x-email
+  url: support@apiary.io
 - type: x-github
   url: https://github.com/apiaryio
 - type: x-twitter

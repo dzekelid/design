@@ -1,22 +1,15 @@
 ---
 name: MuleSoft
-description: Mulesoft provides a cloud, and open source version of their API design
-  editor, enabling API designers to craft APIs using the RAML API definition format,
-  then publish to notebook, as well as manage through other aspects of the API lifecycle
-  with other Mulesoft systems.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
+x-slug: mulesoft
+description: MuleSoft provides the most widely used integration platform (Mule ESB
+  & CloudHub) for connecting SaaS & enterprise applications in the cloud and on-premise.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2245-mulesoft.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Studio
-- Stack Network
-- Management
-- Design Editor
-- Design
-- API LIfeycle
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/mulesoft/apis.yaml
+x-alexaRank: "24610"
+tags: Design
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/mulesoft/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -24,6 +17,14 @@ x-common:
   url: http://blogs.mulesoft.org/
 - type: x-blog-rss
   url: http://feeds.feedburner.com/muleblog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mulesoft
+- type: x-email
+  url: press@mulesoft.com
+- type: x-email
+  url: hongkong@mulesoft.com
+- type: x-email
+  url: privacy@mulesoft.com
 - type: x-github
   url: https://github.com/mulesoft
 - type: x-twitter

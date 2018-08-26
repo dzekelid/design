@@ -1,20 +1,14 @@
 ---
 name: API Stylebook
-description: A Github hosted, aggregate set of API design topics. The API Stylebook
-  has brought together the API design style guides of leading API providers and merged
-  them into a single source of API design principles. It is hosted on Github, with
-  the data behind available as YAML, making it easily forkable, and replicable for
-  any API provider looking to establish their own API design guide.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API_Stylebook.png
+x-slug: api-stylebook
+description: Collections of resources for API Designers
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22949-api-stylebook.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Guides
-- Design
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/design/master/_listings/api-stylebook/apis.yaml
+x-alexaRank: "3244795"
+tags: Design
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/api-stylebook/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
