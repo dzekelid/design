@@ -1,0 +1,413 @@
+{
+	"name": "Streadata.io API Gallery - Design",
+	"description": "This is a repository of design APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/design.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://design.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Apiary",
+			"x-api-slug": "apiary",
+			"description": "Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the design, development, and documentation of APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19-apiary.jpg",
+			"humanURL": "https://apiary.io",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apiary/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Restlet",
+			"x-api-slug": "restlet",
+			"description": "Restlet is a web API platform vendor, pioneer of RESTful web APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/90-restlet.jpg",
+			"humanURL": "https://restlet.com/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/restlet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Thingiverse",
+			"x-api-slug": "thingiverse",
+			"description": "Thingiverse is a universe of things. Download our files and build them with your lasercutter, 3D printer, or CNC.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/258-thingiverse.jpg",
+			"humanURL": "http://www.thingiverse.com/developers",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/thingiverse/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fonts.com",
+			"x-api-slug": "fonts-com",
+			"description": "Fonts.com provides the biggest and best selection of high quality desktop and web fonts. Try, buy and download classics like Helvetica, Univers, Frutiger, Trade Gothic and Avenir along with popular new fonts like Soho and Neo. Find your type!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/790-fonts-com.jpg",
+			"humanURL": "http://webfonts.fonts.com",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/fonts-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Zurb",
+			"x-api-slug": "zurb",
+			"description": "ZURB, creating unique customer and user experiences. We are brand engineers that provide companies with strategic marketing, design and branding solutions. Work includes identity, branding, information design, web design, illustration, software design,...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/794-zurb.jpg",
+			"humanURL": "http://zurb.com/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/zurb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Paspartout",
+			"x-api-slug": "paspartout",
+			"description": "Paspartout helps you to build and maintain a free online portfolio or online shop, use paspartout to show your work to the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/885-paspartout.jpg",
+			"humanURL": "http://paspartout.com/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/paspartout/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pidoco",
+			"x-api-slug": "pidoco",
+			"description": "Create clickable wireframes for websites and mobile apps with our online wireframing tool. Collaboration and exports for easy UI design and UX prototyping.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/893-pidoco.jpg",
+			"humanURL": "https://pidoco.com",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/pidoco/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Behance",
+			"x-api-slug": "behance",
+			"description": "Use Behance to showcase and discover creative work. Were on a mission to empower the creative world to make ideas happen.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1309-behance.jpg",
+			"humanURL": "http://www.behance.net/dev",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/behance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MuleSoft",
+			"x-api-slug": "mulesoft",
+			"description": "MuleSoft provides the most widely used integration platform (Mule ESB & CloudHub) for connecting SaaS & enterprise applications in the cloud and on-premise.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2245-mulesoft.jpg",
+			"humanURL": "http://www.mulesoft.com/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/mulesoft/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "APIMATIC",
+			"x-api-slug": "apimatic",
+			"description": "A Developer Experience Platform for APIs. Services include: Developer Portal Generation, SDK Generation, Documentation Generation, Code Sample Generation, API Specification Conversion, CI/CD Integrations, Package Publishing",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2939-apimatic.jpg",
+			"humanURL": "http://apimatic.io",
+			"baseURL": "https://apimatic.io//api/transform",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apimatic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StopLight",
+			"x-api-slug": "stoplight",
+			"description": "StopLight, providing engineering teams with the best way to document, test, and build web APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2951-stoplight.jpg",
+			"humanURL": "http://stoplight.io/",
+			"baseURL": ":///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/stoplight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bright Bright Great",
+			"x-api-slug": "bright-bright-great",
+			"description": "Web Design, Development, Brand Strategy",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3765-bright-bright-great.jpg",
+			"humanURL": "http://brightbrightgreat.com/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/bright-bright-great/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apigee API Studio",
+			"x-api-slug": "apigee-api-studio",
+			"description": "Apigee launched their API Studio out of their earlier Apigee-127 product, their work on the Swagger platform and editor, and their BaaS offering. The new studio opens up the ability for developers to design, mock, test and share via their online open source based platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
+			"humanURL": "http://apistudio.io/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apigee-api-studio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Gelato.io",
+			"x-api-slug": "gelato-io",
+			"description": "A tool for creating and maintaining excellent Developer Portals and API or Technical Documentation",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18858-gelato-io.jpg",
+			"humanURL": "https://gelato.io/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/gelato-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RepreZen API Studio",
+			"x-api-slug": "reprezen-api-studio",
+			"description": "Powerful IDE for API-first design, documentation & development w/ Swagger-OpenAPI 2.0, 3.0 & RAPID-ML description languages. Multi-file editing & custom codegen",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18942-reprezen-api-studio.jpg",
+			"humanURL": "http://www.reprezen.com/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/reprezen-api-studio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Materia",
+			"x-api-slug": "materia",
+			"description": "A modern development environment to build advanced mobile and web applications",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22948-materia.jpg",
+			"humanURL": "https://getmateria.com/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/materia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "API Stylebook",
+			"x-api-slug": "api-stylebook",
+			"description": "Collections of resources for API Designers",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22949-api-stylebook.jpg",
+			"humanURL": "http://apistylebook.com/",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/api-stylebook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apimint",
+			"x-api-slug": "apimint",
+			"description": "APIMINT is an API lifecycle management tool. With our design first approach, all stake holders get a platform to collaborate and give feedback on API design and structure. We make sure your all your teams can easily agree and understand your APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png",
+			"humanURL": "https://www.apimint.com",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apimint/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SAP",
+			"x-api-slug": "sap",
+			"description": "Get software and technology solutions from SAP, the leader in business applications.  Run simple with the best in cloud, analytics, mobile and IT solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28252-www-sap-com.jpg",
+			"humanURL": "https://www.sap.com/index.html",
+			"baseURL": "https://sandbox.api.sap.com//translationhub/api/v1",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/sap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Speccy",
+			"x-api-slug": "speccy",
+			"description": "A handy toolkit for OpenAPI, with a linter to enforce quality rules, documentation rendering, and resolution.",
+			"image": "",
+			"humanURL": "http://speccy.io",
+			"baseURL": "https:///",
+			"tags": "Design",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/speccy/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Design",
+	"include": [
+		{
+			"name": "Apiary",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apiary/apis.yaml"
+		},
+		{
+			"name": "Restlet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/restlet/apis.yaml"
+		},
+		{
+			"name": "Thingiverse",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/thingiverse/apis.yaml"
+		},
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "Fonts.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/fonts-com/apis.yaml"
+		},
+		{
+			"name": "Zurb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/zurb/apis.yaml"
+		},
+		{
+			"name": "Paspartout",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/paspartout/apis.yaml"
+		},
+		{
+			"name": "Pidoco",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/pidoco/apis.yaml"
+		},
+		{
+			"name": "Behance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/behance/apis.yaml"
+		},
+		{
+			"name": "MuleSoft",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/mulesoft/apis.yaml"
+		},
+		{
+			"name": "APIMATIC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apimatic/apis.yaml"
+		},
+		{
+			"name": "StopLight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/stoplight/apis.yaml"
+		},
+		{
+			"name": "Bright Bright Great",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/bright-bright-great/apis.yaml"
+		},
+		{
+			"name": "Apigee API Studio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apigee-api-studio/apis.yaml"
+		},
+		{
+			"name": "Gelato.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/gelato-io/apis.yaml"
+		},
+		{
+			"name": "RepreZen API Studio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/reprezen-api-studio/apis.yaml"
+		},
+		{
+			"name": "Materia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/materia/apis.yaml"
+		},
+		{
+			"name": "API Stylebook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/api-stylebook/apis.yaml"
+		},
+		{
+			"name": "Apimint",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/apimint/apis.yaml"
+		},
+		{
+			"name": "SAP",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/sap/apis.yaml"
+		},
+		{
+			"name": "Speccy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/speccy/apis.yaml"
+		}
+	]
+}

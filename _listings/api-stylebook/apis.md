@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22949-api-
 x-kinRank: "9"
 x-alexaRank: "3244795"
 tags: Design
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/design/master/_listings/api-stylebook/apis.md
 specificationVersion: "0.14"
 apis: []
